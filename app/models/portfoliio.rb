@@ -1,2 +1,0 @@
-class Portfoliio < ApplicationRecord
-end
